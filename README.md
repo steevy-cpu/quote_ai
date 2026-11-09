@@ -21,17 +21,6 @@ git clone https://github.com/steevy-cpu/quote_ai.git
 cd quote_ai
 ```
 
-Create your branch using the matching command:
-
-| Person | Command |
-| --- | --- |
-| Oleksii | `git switch -c oleksii/interface` |
-| Steeve | `git switch -c steeve/rag` |
-| Jorge | `git switch -c jorge/backend` |
-| Vanessa | `git switch -c vanessa/agent` |
-
-This repository currently contains only the project backbone. There is no application to run yet.
-
 ## Structure
 
 ```text
