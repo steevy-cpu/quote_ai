@@ -1,7 +1,0 @@
-{
-  "schema_version": "0.1",
-  "request_id": "demo-request-001",
-  "customer_name": "Demo Customer",
-  "customer_email": "customer@example.com",
-  "message": "I need a one-time lawn mowing service for a 2,500 sq. ft. lawn."
-}
